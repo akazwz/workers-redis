@@ -25,7 +25,7 @@ Cloudflare Workers have limited support for TCP connections. This project serves
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/akazwz/workers-redis.git
 cd workers-redis
 ```
 
